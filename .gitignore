@@ -1,6 +1,9 @@
-hello.aux
-hello.fdb_latexmk
-hello.fls
-hello.log
-hello.pdf
-hello.synctex.gz
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.pdf
+*.synctex.gz
+
+bad_bad_file.txt
+**/bad_folder/*
